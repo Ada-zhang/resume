@@ -603,12 +603,7 @@ img{
 
 /*图片大的用cover，小的用100% 100%*/
 /*page4*/
-.slide4 .tittle{
-    opacity: 0;
-}
 #page4 .tittle{
-    opacity: 1;
-    transition: opacity 1s 1s;
     -o-animation:rollIn 1s 1s;
     -moz-animation:rollIn 1s 1s;
     animation:rollIn 1s 1s;
@@ -639,12 +634,8 @@ img{
     position:absolute;
     top:0.28rem;
     left:.1rem;
-    opacity: 0;
-    z-index:2;
 }
 #page4 .express .one{
-    opacity: 1;
-    transition: opacity 1s 1.6s;
     -o-animation:zoomInUp 1s 1.6s;
     -moz-animation:zoomInUp 1s 1.6s;
     animation:zoomInUp 1s 1.6s;
@@ -655,12 +646,8 @@ img{
     position:absolute;
     top:1.58rem;
     left:.1rem;
-    opacity: 0;
-    z-index:2;
 }
 #page4 .express .two{
-    opacity: 1;
-    transition: opacity 1s 2.4s;
     -o-animation:zoomInUp 1s 2.4s;
     -moz-animation:zoomInUp 1s 2.4s;
     animation:zoomInUp 1s 2.4s;
@@ -674,8 +661,6 @@ img{
     z-index:2;
 }
 #page4 .express .three{
-    opacity: 1;
-    transition: opacity 1s 3.2s;
     -o-animation:zoomInUp 1s 3.2s;
     -moz-animation:zoomInUp 1s 3.2s;
     animation:zoomInUp 1s 3.2s;
@@ -688,8 +673,6 @@ img{
     left:.1rem;
 }
 #page4 .express .four{
-    opacity: 1;
-    transition: opacity 1s 4s;
     -o-animation:zoomInUp 1s 4s;
     -moz-animation:zoomInUp 1s 4s;
     animation:zoomInUp 1s 4s;
