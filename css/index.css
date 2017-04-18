@@ -640,6 +640,7 @@ img{
     top:0.28rem;
     left:.1rem;
     opacity: 0;
+    z-index:2;
 }
 #page4 .express .one{
     opacity: 1;
@@ -648,12 +649,14 @@ img{
     -moz-animation:zoomInUp 1s 1.6s;
     animation:zoomInUp 1s 1.6s;
     -webkit-animation:zoomInUp 1s 1.6s;
+
 }
 .slide4 .express .two{
     position:absolute;
     top:1.58rem;
     left:.1rem;
     opacity: 0;
+    z-index:2;
 }
 #page4 .express .two{
     opacity: 1;
@@ -668,6 +671,7 @@ img{
     top:2.88rem;
     left:.1rem;
     opacity: 0;
+    z-index:2;
 }
 #page4 .express .three{
     opacity: 1;
@@ -690,6 +694,7 @@ img{
     -moz-animation:zoomInUp 1s 4s;
     animation:zoomInUp 1s 4s;
     -webkit-animation:zoomInUp 1s 4s;
+    z-index:2;
 }
 .slide4 .dot{
     position:absolute;
