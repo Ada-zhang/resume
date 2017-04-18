@@ -520,7 +520,8 @@ img{
     background: red;
     width:2.4rem;
     opacity:0;
-    height:.32rem;
+    height:.33rem;
+    z-index:22;
 }
 #page3 .width1{
     width:0;
@@ -534,7 +535,8 @@ img{
      background: yellow;
      width:2.4rem;
     opacity:0;
-    height:.32rem;
+    height:.33rem;
+    z-index:22;
  }
 #page3 .width2{
     opacity:1;
@@ -548,7 +550,9 @@ img{
     background: blue;
     width:2.4rem;
     opacity:0;
-    height:.32rem;
+    height:.33rem;
+    z-index:22;
+
 }
 #page3 .width3{
     opacity:1;
@@ -562,7 +566,8 @@ img{
     background:orange;
     width:2.4rem;
     opacity:0;
-    height:.32rem;
+    height:.33rem;
+    z-index:22;
 }
 #page3 .width4{
     opacity:1;
@@ -575,7 +580,7 @@ img{
     left:1.3rem;
     background:white;
     width:2.4rem;
-    height:.32rem;
+    height:.33rem;
     opacity:0;
     z-index:22;
 }
@@ -603,23 +608,23 @@ img{
 
 #page3 .skill .line1{
     opacity:1;
-    transition:opacity .8s 1.5s;
+    transition:opacity 1s 1.6s;
 }
 #page3 .skill .line2{
     opacity:1;
-    transition:opacity .8s 2.1s;
+    transition:opacity 1s 2.2s;
 }
 #page3 .skill .line3{
     opacity:1;
-    transition:opacity .8s 2.7s;
+    transition:opacity 1s 2.8s;
 }
 #page3 .skill .line4{
     opacity:1;
-    transition:opacity .8s 3.3s;
+    transition:opacity 1s 3.4s;
 }
 #page3 .skill .line5{
     opacity:1;
-    transition:opacity .8s 3.9s;
+    transition:opacity 1s 4s;
 }
 
 .slide3  .skill .line{
