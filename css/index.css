@@ -746,7 +746,7 @@ img{
     margin-left: -2.35rem;
     width:4.7rem;
     height:4.7rem;
-    border: 0.02rem dashed #000;
+    border: 0.02rem dashed deepskyblue;
     border-radius: 50%;
 }
 #page5 .dash{
@@ -840,7 +840,7 @@ img{
     position: absolute;
     bottom: 1.4rem;
     font-size: .32rem;
-    color: #333;
+    color:deepskyblue;
     left: 50%;
     margin-left: -2.1rem;
     border-bottom: .02rem dashed #fff;
